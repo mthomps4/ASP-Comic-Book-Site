@@ -17,7 +17,6 @@ namespace ComicBookGallery.Controllers
             _comicBookRepository = new ComicBookRepositiory();
         }
 
-
 		//Action Method 
 		public ActionResult Detail(int? id)
         {
